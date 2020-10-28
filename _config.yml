@@ -17,6 +17,7 @@ plugins:
   - jemoji
 
 ## personalize your slide show
+##testing version adding text
 title:       github-slideshow
 author:      GitHubTeacher
 description: A fun activity for learning Git and GitHub.
